@@ -61,6 +61,7 @@ Puis ajoute *elt* dans *liste*, et enfin retourne *liste*.
 - Clônez d'abord le repository
 - Ouvrez le dossier dans votre éditeur de texte ou IDE
 - Ouvrez un terminal et placez vous dans le chemin du dossier
+- Créer et activer un environnement virtuel:
 - Installer tous les librairies utilisées en tapant:
     ```
     pip install -r requirements.txt
